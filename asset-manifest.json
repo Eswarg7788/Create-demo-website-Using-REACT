@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Eswarg7788/Create-demo-website-Using-REACT/blob/main/src/index.js/static/css/main.a6b64601.css",
-    "main.js": "/Eswarg7788/Create-demo-website-Using-REACT/blob/main/src/index.js/static/js/main.c3ed1c9a.js",
-    "index.html": "/Eswarg7788/Create-demo-website-Using-REACT/blob/main/src/index.js/index.html",
-    "main.a6b64601.css.map": "/Eswarg7788/Create-demo-website-Using-REACT/blob/main/src/index.js/static/css/main.a6b64601.css.map",
-    "main.c3ed1c9a.js.map": "/Eswarg7788/Create-demo-website-Using-REACT/blob/main/src/index.js/static/js/main.c3ed1c9a.js.map"
+    "main.css": "/Eswarg7788/Create-demo-website-Using-REACT/static/css/main.a6b64601.css",
+    "main.js": "/Eswarg7788/Create-demo-website-Using-REACT/static/js/main.c3ed1c9a.js",
+    "index.html": "/Eswarg7788/Create-demo-website-Using-REACT/index.html",
+    "main.a6b64601.css.map": "/Eswarg7788/Create-demo-website-Using-REACT/static/css/main.a6b64601.css.map",
+    "main.c3ed1c9a.js.map": "/Eswarg7788/Create-demo-website-Using-REACT/static/js/main.c3ed1c9a.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b64601.css",
