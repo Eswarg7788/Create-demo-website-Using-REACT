@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: space-evenly;
+    background-color: rgb(127, 127, 184);
+    color: aliceblue;
+    height: 100px;
+    align-items:center;
+}

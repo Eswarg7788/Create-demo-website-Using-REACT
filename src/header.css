@@ -1,0 +1,17 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.es{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(127, 127, 184);
+    color: aliceblue;
+    height: 50px;
+    font-size: 20px;
+    position: relative;
+}
+.ws{
+    position: relative;
+    top: 15px;
+}
